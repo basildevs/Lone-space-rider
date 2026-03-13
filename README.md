@@ -7,9 +7,12 @@ You can play or download the game here:
 https://basil-devs.itch.io/
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+• Pilot a jet across space
+• Explore moon bases and space stations
+• Navigation system based objectives
+• Keycard puzzle to unlock routes
+• Atmospheric sci-fi environments
+• Story driven ending
 
 ## Built With
 - Unity
