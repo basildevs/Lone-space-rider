@@ -4,7 +4,7 @@ A Unity game developed using C#.
 
 ## Play the Game
 You can play or download the game here:
-https://youritchlink
+https://basil-devs.itch.io/
 
 ## Features
 - Feature 1
